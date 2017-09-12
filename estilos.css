@@ -1,0 +1,32 @@
+
+body
+{
+	background: #FA8320;
+	color: white;
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+}
+
+h1
+{
+	text-align: center;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+#Primer-Parrafo
+{
+	background: white;
+	color: black;
+	border-radius: 0.5em;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+	display: block;
+	margin: 1em auto;
+	padding: 1em;
+	width: 70%;
+}
+
+.azul
+{
+	color: blue;
+	font-weight: bold;
+}
