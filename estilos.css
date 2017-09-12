@@ -13,6 +13,25 @@ h1
 	text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 
+table, th, td
+{
+   border: 1px solid black;
+   border-collapse: collapse;
+   padding: 15px;
+}
+
+td
+{
+	background-color: white;
+	color: black;
+}
+
+th
+{
+	background-color: black;
+	color: white;
+}
+
 #Primer-Parrafo
 {
 	background: white;
